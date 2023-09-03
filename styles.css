@@ -1,0 +1,58 @@
+body {
+	margin: 0;
+}
+hr {
+	height: 2px;
+	background-color: black;
+	border-color: black;
+}
+
+h1, h2, p {
+	
+}
+
+
+div {
+  border: 10px solid red;
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.container {
+	background: burlywood;
+	width: 80%;
+	margin: auto;
+	max-width: 600px;
+	max-height: 600px;
+}
+
+
+h2 {
+	font-size: 30px;
+}
+
+label {
+	text-align: center;
+}
+
+input {
+	display: sblock;
+	justify-items: center;
+	margin: 10px;
+}
+
+.myForm {
+	align-items: center;
+
+
+}
+.form-control {
+	text-align: center;
+}
+
+/* FOOTER */
+
+footer {
+	font-style: italic;
+}
